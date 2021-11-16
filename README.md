@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbinValliyil
 - 👀 I’m interested in backend coding 
-- 🌱 I’m currently python
+- 🌱 I’m currently use python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
